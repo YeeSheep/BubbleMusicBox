@@ -11,10 +11,11 @@
 - 麵包版
 ## 程式說明
 -*- coding: UTF-8 -*-
-!/usr/bin/python
+/!/usr/bin/python
 import smbus
 import time
 import RPi.GPIO as GPIO
+
 
 
 CONTROL_PIN = 27
