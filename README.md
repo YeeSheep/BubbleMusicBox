@@ -10,7 +10,7 @@
 - 風扇
 - 麵包版
 
-![image](picture or gif url)
+![image](https://github.com/YeeSheep/BubbleMusicBox/blob/master/IMG_6588.JPG)
 ## 程式說明
 -*- coding: UTF-8 -*-
 /!/usr/bin/python
