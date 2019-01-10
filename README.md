@@ -10,7 +10,6 @@
 - 風扇
 - 麵包版
 ## 程式說明
-ˋˋˋ
 -*- coding: UTF-8 -*-
 !/usr/bin/python
 import smbus
