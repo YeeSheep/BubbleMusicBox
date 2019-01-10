@@ -11,8 +11,8 @@
 - 麵包版
 ## 程式說明
 ˋˋˋ
-# -*- coding: UTF-8 -*-
-#!/usr/bin/python
+-*- coding: UTF-8 -*-
+!/usr/bin/python
 import smbus
 import time
 import RPi.GPIO as GPIO
