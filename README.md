@@ -10,6 +10,7 @@
 - 風扇
 - 麵包版
 
+![image](picture or gif url)
 ## 程式說明
 -*- coding: UTF-8 -*-
 /!/usr/bin/python
