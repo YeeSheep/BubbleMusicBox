@@ -10,7 +10,7 @@
 - 風扇
 - 麵包版
 ## 實體照片
-![image](https://ppt.cc/fI4Tfx)
+![image](https://ppt.cc/fI4Tfx@.png)
 ![image](https://github.com/YeeSheep/BubbleMusicBox/blob/master/IMG_6588.JPG)
 ## 程式說明
 -*- coding: UTF-8 -*-
