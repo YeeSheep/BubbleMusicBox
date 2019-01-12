@@ -42,7 +42,7 @@
 ## 程式說明
 
 - Arduino
-ˋˋˋ
+```
 const int speaker=2;	
 unsigned int frequency[7]={523,587,659,694,784,880,988};
 char toneName[]="CDEFGAB";	
@@ -78,7 +78,7 @@ noTone(speaker);
 }
 }
 }
-ˋˋˋ
+```
 - Raspberry pi :
 ```
 -*- coding: UTF-8 -*-
