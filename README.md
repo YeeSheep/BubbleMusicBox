@@ -28,6 +28,7 @@
 -內部線路
 ![image](https://github.com/YeeSheep/BubbleMusicBox/blob/master/IMG_6588.JPG)
 ## 程式說明
+ˋˋˋ
 -*- coding: UTF-8 -*-
 /!/usr/bin/python
 import smbus
