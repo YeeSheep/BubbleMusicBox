@@ -8,6 +8,8 @@
 - 完成以上三個步驟就會有邊吹泡泡邊唱歌了 ~ 是不是很簡單呢?恩真的很簡單 ~ 
 
 ## 成品
+- 成品外觀
+![image](https://ppt.cc/fAIQtx@.jpg)
 - 內部線路
 ![image](https://ppt.cc/fMxmSx@.jpg)
 
