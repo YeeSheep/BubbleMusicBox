@@ -138,19 +138,24 @@ if __name__=="__main__":
    GPIO.cleanup()
 ```
 ## 參考來源
-- 光照度感測 : http://atceiling.blogspot.com/2017/03/raspberry-pi-gy30.html
+- 光照度感測 : 
+1. http://atceiling.blogspot.com/2017/03/raspberry-pi-gy30.html
+2. https://www.raspberrypi-spy.co.uk/2015/03/bh1750fvi-i2c-digital-light-intensity-sensor/
 - 吹泡泡機 : https://learn.adafruit.com/make-it-bubble/sub-assemblies
 - Servo馬達 : 
 1. https://blog.everlearn.tw/%E7%95%B6-python-%E9%81%87%E4%B8%8A-raspberry-pi/raspberry-pi-3-mobel-3-%E5%88%A9%E7%94%A8-pwm-%E6%8E%A7%E5%88%B6%E4%BC%BA%E6%9C%8D%E9%A6%AC%E9%81%94
 2. https://www.electronicshub.org/raspberry-pi-servo-motor-interface-tutorial/#Code
 3. https://www.youtube.com/watch?v=Sg8VaKiZFVE
+4. http://yehnan.blogspot.com/2013/09/arduinotower-pro-sg90.html
+5. https://docs.micropython.org/en/latest/pyboard/tutorial/servo.html
 
 - Python錯誤相關 :
 1. SyntaxError: invalid syntax https://blog.csdn.net/zcf1784266476/article/details/71335939
 2. IndentationError: unexpected indent https://blog.csdn.net/lhshu2008/article/details/25793785
 3. IndentationError:expected an indented block https://blog.csdn.net/NeilHappy/article/details/7724959
 4. IOError: [Errno 121] Remote I/O error https://www.raspberrypi.org/forums/viewtopic.php?t=191300
-
+5. GPIO - RuntimeWarning: This channel already in use, continuing anyway
+ https://raspberrypi.stackexchange.com/questions/33967/gpio-runtimewarning-this-channel-already-in-use-continuing-anyway
 - Python 基本知識 :
 1. http://smandyscom.blogspot.com/2016/01/raspberry-pi-pwm.html
 2. https://github.com/tomlinNTUB/Python/blob/master/01-1%20%E5%85%A7%E5%BB%BA%E5%9E%8B%E6%85%8B(int%2C%20float%2C%20str%2C%20bool).md
