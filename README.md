@@ -15,6 +15,10 @@
 - LED 
 - 風扇
 - 麵包版
+- Arduino
+- 紙箱
+- 吹泡泡玩具
+-
 ## 線路圖
 - Arduino  
 ![image](https://ppt.cc/fI4Tfx@.png)
