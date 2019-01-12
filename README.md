@@ -138,13 +138,25 @@ if __name__=="__main__":
    GPIO.cleanup()
 ```
 ## 參考來源
-1. 光照度感測 http://atceiling.blogspot.com/2017/03/raspberry-pi-gy30.html
-2. 吹泡泡機 https://learn.adafruit.com/make-it-bubble/sub-assemblies
+- 光照度感測 : http://atceiling.blogspot.com/2017/03/raspberry-pi-gy30.html
+- 吹泡泡機 : https://learn.adafruit.com/make-it-bubble/sub-assemblies
+- Servo馬達 : 
+1. https://blog.everlearn.tw/%E7%95%B6-python-%E9%81%87%E4%B8%8A-raspberry-pi/raspberry-pi-3-mobel-3-%E5%88%A9%E7%94%A8-pwm-%E6%8E%A7%E5%88%B6%E4%BC%BA%E6%9C%8D%E9%A6%AC%E9%81%94
+2. https://www.electronicshub.org/raspberry-pi-servo-motor-interface-tutorial/#Code
+3. https://www.youtube.com/watch?v=Sg8VaKiZFVE
 
-- Python錯誤相關
-1. https://blog.csdn.net/zcf1784266476/article/details/71335939
-2. https://blog.csdn.net/lhshu2008/article/details/25793785
-3. https://blog.csdn.net/NeilHappy/article/details/7724959
+- Python錯誤相關 :
+1. SyntaxError: invalid syntax https://blog.csdn.net/zcf1784266476/article/details/71335939
+2. IndentationError: unexpected indent https://blog.csdn.net/lhshu2008/article/details/25793785
+3. IndentationError:expected an indented block https://blog.csdn.net/NeilHappy/article/details/7724959
+4. IOError: [Errno 121] Remote I/O error https://www.raspberrypi.org/forums/viewtopic.php?t=191300
+
+- Python 基本知識 :
+1. http://smandyscom.blogspot.com/2016/01/raspberry-pi-pwm.html
+2. https://github.com/tomlinNTUB/Python/blob/master/01-1%20%E5%85%A7%E5%BB%BA%E5%9E%8B%E6%85%8B(int%2C%20float%2C%20str%2C%20bool).md
+
+
+- 對一個程式不強且從來沒碰過 python 跟 Raspberry 的小菜鳥來說 python基本上就是瘋狂的去debug 跟上網查看相關基本架構 QAQ
 ## 工作分配
 
 | 編號 | 工作項目    | 工作者  |
