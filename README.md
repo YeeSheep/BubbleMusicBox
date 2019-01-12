@@ -28,7 +28,7 @@
 ![image](https://ppt.cc/fIgVZx@.png)
 ## 成品
 -內部線路
-![image](https://ppt.cc/fMxmSx)
+![image](https://ppt.cc/fMxmSx@.jpg)
 ## 程式說明
 ```
 -*- coding: UTF-8 -*-
