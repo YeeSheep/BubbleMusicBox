@@ -103,7 +103,10 @@ if __name__=="__main__":
 1. 光照度感測 http://atceiling.blogspot.com/2017/03/raspberry-pi-gy30.html
 2. 吹泡泡機 https://learn.adafruit.com/make-it-bubble/sub-assemblies
 ## 工作分配
-- 採購元件--張真
+
+|  | 工作項目    | 工作者  |
+|----|:-----------:|:-------:|
+| 採購元件|張真|
 - 系統功能 :
 1. 蜂鳴器-- 張真
 2. 馬達-- 楊宜明
