@@ -28,7 +28,7 @@
 -內部線路
 ![image](https://github.com/YeeSheep/BubbleMusicBox/blob/master/IMG_6588.JPG)
 ## 程式說明
-ˋˋˋ
+```
 -*- coding: UTF-8 -*-
 /!/usr/bin/python
 import smbus
@@ -84,7 +84,7 @@ if __name__=="__main__":
 
    pwm.stop()
    GPIO.cleanup()
-ˋˋˋ
+```
 ## 參考來源
 1. 光照度感測 http://atceiling.blogspot.com/2017/03/raspberry-pi-gy30.html
 2. 吹泡泡機 https://learn.adafruit.com/make-it-bubble/sub-assemblies
