@@ -37,6 +37,8 @@
 - Raspberry Pi
 ![image](https://ppt.cc/fIgVZx@.png)
 
+- 左邊的風扇馬達~不小心畫錯~ 應該是與旁邊的AA電池接在一起，由手動的方式啟動(拍謝~)
+
 ## 程式說明
 ```
 -*- coding: UTF-8 -*-
