@@ -10,9 +10,9 @@
 - 風扇
 - 麵包版
 ## 線路圖
--Arduino  
+- Arduino  
 ![image](https://ppt.cc/fI4Tfx@.png)
--Raspberry Pi
+- Raspberry Pi
 ![image](https://ppt.cc/fIgVZx@.png)
 ## 成品
 -內部線路
