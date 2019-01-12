@@ -230,7 +230,7 @@ if _name__=="__main_":
 2. https://github.com/tomlinNTUB/Python/blob/master/01-1%20%E5%85%A7%E5%BB%BA%E5%9E%8B%E6%85%8B(int%2C%20float%2C%20str%2C%20bool).md
 
 
-- 對一個程式不強且從來沒碰過 python 跟 Raspberry 的小菜鳥來說 python基本上就是瘋狂的去debug 跟上網查看相關基本架構 QAQ
+- ~對一個程式不強且從來沒碰過 python 跟 Raspberry 的小菜鳥來說 python基本上就是瘋狂的去debug 跟上網查看相關基本架構~ QAQ
 ## 工作分配
 
 | 編號 | 工作項目    | 工作者  |
