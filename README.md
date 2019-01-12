@@ -7,6 +7,10 @@
 3. 在盒子下方有個按鈕打開。
 - 完成以上三個步驟就會有邊吹泡泡邊唱歌了 ~ 是不是很簡單呢?恩真的很簡單 ~ 
 
+## 成品
+-內部線路
+![image](https://ppt.cc/fMxmSx@.jpg)
+
 ## 設備
 - Raspberry Pi 3
 - 光照度感測模組
@@ -19,16 +23,19 @@
 - 紙箱
 - 吹泡泡玩具
 - LED小燈泡
-##結構原理
-- Arduino版 : 在底部感光元件
+
+## 結構原理
+1. Arduino板 : 會用Arduino主要是說麵包版那邊好像沒辦法一次供應感光元件、Servo(接吹泡泡的棍子)以及風扇馬達，因為在光感應還是馬達(我忘記哪邊QQ)通電的時候為瞬間吃掉大量的電，導致Servo那裡在執行的時候會有抽蓄的情形，所以才使用這個板子去接Raspberry板子。
+- 這個板子上面的功用是當有點的時候開啟左邊小小開關，而後面的燈泡感應到有電就會亮起來，蜂鳴器就會開始唱歌。
+
+2. Raspberry Pi 3 :
+
 ## 線路圖
 - Arduino  
 ![image](https://ppt.cc/fI4Tfx@.png)
 - Raspberry Pi
 ![image](https://ppt.cc/fIgVZx@.png)
-## 成品
--內部線路
-![image](https://ppt.cc/fMxmSx@.jpg)
+
 ## 程式說明
 ```
 -*- coding: UTF-8 -*-
