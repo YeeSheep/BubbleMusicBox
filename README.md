@@ -18,7 +18,9 @@
 - Arduino
 - 紙箱
 - 吹泡泡玩具
--
+- LED小燈泡
+##結構原理
+- Arduino版 : 在底部感光元件
 ## 線路圖
 - Arduino  
 ![image](https://ppt.cc/fI4Tfx@.png)
@@ -26,7 +28,7 @@
 ![image](https://ppt.cc/fIgVZx@.png)
 ## 成品
 -內部線路
-![image](https://github.com/YeeSheep/BubbleMusicBox/blob/master/IMG_6588.JPG)
+![image](https://ppt.cc/fMxmSx)
 ## 程式說明
 ```
 -*- coding: UTF-8 -*-
