@@ -12,6 +12,8 @@
 ## 線路圖
 -Arduino  
 ![image](https://ppt.cc/fI4Tfx@.png)
+-Raspberry Pi
+![image](https://ppt.cc/fIgVZx@.png)
 ## 成品
 -內部線路
 ![image](https://github.com/YeeSheep/BubbleMusicBox/blob/master/IMG_6588.JPG)
