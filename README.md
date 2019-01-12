@@ -41,7 +41,7 @@
 
 ## 程式說明
 
-- Arduino
+- Arduino : 小蜜蜂 
 ```
 const int speaker=2;	
 unsigned int frequency[7]={523,587,659,694,784,880,988};
@@ -140,6 +140,11 @@ if __name__=="__main__":
 ## 參考來源
 1. 光照度感測 http://atceiling.blogspot.com/2017/03/raspberry-pi-gy30.html
 2. 吹泡泡機 https://learn.adafruit.com/make-it-bubble/sub-assemblies
+
+- Python錯誤相關
+1. https://blog.csdn.net/zcf1784266476/article/details/71335939
+2. https://blog.csdn.net/lhshu2008/article/details/25793785
+3. https://blog.csdn.net/NeilHappy/article/details/7724959
 ## 工作分配
 
 | 編號 | 工作項目    | 工作者  |
